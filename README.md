@@ -5,6 +5,7 @@ reduce_code-android
 - Dagger
 - icepick
 - routable-android
+- android-intents
 - retrolambda
 - RxJava
 - lombok
