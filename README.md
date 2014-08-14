@@ -8,3 +8,4 @@ reduce_code-android
 - retrolambda
 - RxJava
 - lombok
+- Otto
